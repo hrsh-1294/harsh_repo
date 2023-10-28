@@ -1,1 +1,3 @@
 helooooo world.
+this text is to check soft and mixed reset.
+ this is unnecessary commit.
